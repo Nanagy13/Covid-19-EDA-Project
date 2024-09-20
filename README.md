@@ -1,4 +1,6 @@
 COVID-19 EDA PROJECT WITH SQL 
+
+
 COVID-19 Exploratory Data Analysis (EDA) using SQL
 This is an end to end project focusing on analyzing data related to the COVID-19 pandemic using SQL queries. We will be working with a dataset that provides information about COVID-19 cases, deaths, population, and vaccinations varying across different locations and continents. The major goal is to gain valuable insights and answer important questions about the covid 19 pandemic.
 
