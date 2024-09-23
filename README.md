@@ -56,6 +56,7 @@ Data Visualization (Power BI)
 Key Insights
 
 ● Showcased trends in global COVID-19 cases and recoveries over time.
+
 ● Highlighted significant differences in infection rates across regions.
 
 Conclusion
