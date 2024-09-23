@@ -5,22 +5,29 @@ This project is an end-to-end exploratory data analysis (EDA) on COVID-19 data, 
 
 Tools and Technologies
 
-Excel: Data cleaning and preprocessing
-MySQL: Data querying and filtering
-Power BI: Data visualization and dashboard creation.
+● Excel: Data cleaning and preprocessing
+
+● MySQL: Data querying and filtering
+
+● Power BI: Data visualization and dashboard creation.
 
 Project Workflow
 
  Data Cleaning (Excel)
 1. Loaded raw COVID-19 data into Excel.
+   
 2. Handled missing values, corrected data inconsistencies, and removed duplicate records.
+ 
 3. Used Excel functions to format and prepare the data for analysis, ensuring data quality and integrity.
 
 Data Querying (MySQL)
 
 1.Imported the cleaned data into a MySQL database.
+
 2.Wrote complex SQL queries to aggregate data, perform calculations (e.g., total cases, death rates), and filter data based on specific countries, regions, and timeframes.
+
 3.Optimized query performance to handle large datasets.
+
  Below is a list insights generated from the queries :
 
 ● Mortality Rate: This query calculates the percentage of deaths in relation to the total number of cases. It helps us understand how severe the virus is in different locations and continents.
@@ -41,7 +48,9 @@ Data Querying (MySQL)
 Data Visualization (Power BI)
 
 1.Created interactive visualizations and dashboards in Power BI.
+
 2.Visualized COVID-19 trends, including case growth, recovery rates, death rates, and regional comparisons.
+
 3.Designed a user-friendly dashboard to present insights to both technical and non-technical audiences.
 
 Key Insights
