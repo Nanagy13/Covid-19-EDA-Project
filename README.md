@@ -1,7 +1,7 @@
 COVID-19 Exploratory Data Analysis (EDA) Project
 
 
-This project is an end-to-end exploratory data analysis (EDA) on COVID-19 data, covering data cleaning, querying, and visualization. The analysis explores global COVID-19 trends and highlights key insights using Excel, MySQL, and Power BI.
+This project is an exploratory data analysis (EDA) on COVID-19 data, covering data cleaning, querying, and visualization. The analysis explores global COVID-19 trends and highlights key insights using Excel, MySQL.
 
 Tools and Technologies
 
@@ -9,7 +9,6 @@ Tools and Technologies
 
 ● MySQL: Data querying and filtering
 
-● Power BI: Data visualization and dashboard creation.
 
 Project Workflow
 
@@ -44,14 +43,6 @@ Data Querying (MySQL)
 
 ● Global Cases per Day: This query presents the daily global COVID-19 cases, including the total number of new cases and new deaths. It also calculates the death rate as a percentage of new cases.
 
-
-Data Visualization (Power BI)
-
-1.Created interactive visualizations and dashboards in Power BI.
-
-2.Visualized COVID-19 trends, including case growth, recovery rates, death rates, and regional comparisons.
-
-3.Designed a user-friendly dashboard to present insights to both technical and non-technical audiences.
 
 Key Insights
 
